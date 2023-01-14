@@ -1,4 +1,4 @@
-import Foundation
+import AVFoundation
 import GRDB
 
 /// Stores the value and all contextual data for a collected `Session`.

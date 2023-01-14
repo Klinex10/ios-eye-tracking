@@ -1,5 +1,5 @@
 import ARKit
-import Foundation
+import AVFoundation
 
 ///
 /// Stores the value and all contextual data for a collected `BlendShape`

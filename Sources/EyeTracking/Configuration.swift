@@ -1,5 +1,5 @@
 import ARKit
-import Foundation
+import AVFoundation
 
 /// An object for configuring an `EyeTracking` session.
 public struct Configuration {
